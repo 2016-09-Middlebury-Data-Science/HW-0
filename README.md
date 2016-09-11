@@ -6,15 +6,6 @@ You are currently in the "GitHub repository (repo)" for HW-0. For this to work, 
 Your Homework
 -------------
 
-1.  Open RStudio and starting in the menu bar, go to File -&gt; New File -&gt; R Markdown...
-2.  Give it an arbitrary title and select the HTML (not PDF) output format.
-3.  A document `Untitled1` should pop-up. In that panel, click on the arrow next to the Knit PDF button and select Knit HTML.
-4.  Give the file a name and save.
-5.  Click Publish on the top right of the resulting page and say yes to any prompts to install packages.
-6.  Create an account on [Rpubs.com](http://rpubs.com/)
-7.  Give your document a Title and a desired Slug (i.e. webpage URL)
-8.  Note the URL for the page.
-
 HW Submission Exercise
 ----------------------
 
