@@ -1,13 +1,17 @@
 Homework 0
 ================
 
-You are currently in the "GitHub repository (repo)" for HW-0. For this to work, you must have installed git and completed all the [SetUp](https://github.com/Middlebury-Data-Science/SetUp), in particular the [RStudio and GitHub](https://github.com/Middlebury-Data-Science/SetUp#rstudio-and-github) step.
+You are currently in the "GitHub repository (repo)" for HW-0. For this to work, you must have completed all the steps in [Setting Up](https://rudeboybert.github.io/MATH216/jekyll/update/2016/09/12/getting-started.html).
 
-Your Homework
--------------
+Homework Goals
+--------------
 
-HW Submission Exercise
-----------------------
+-   You will not be doing anything substantive for HW-0, but rather practicing the homework and final project submission process for the semester.
+-   The submission process precisely mimics how a lot of collaborative work is done on [GitHub](https://github.com/), a web-based repository hosting service. Think of it as a social network for code and data.
+-   All work in this class will be submitted in R Markdown, which is a tool for reproducible research. For those of you new to it, you'll see why it makes sharing reports easy.
+
+Homework
+--------
 
 This exercise will guide you through the HW submission process for the semester.
 
