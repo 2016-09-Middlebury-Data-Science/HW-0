@@ -55,4 +55,4 @@ Things to Keep in Mind
 Help! This Isn't Working!
 -------------------------
 
-I anticipate this not working for many of you the first time, hence this is just a practice HW-0. If you encounter issues, don't panic and come see me during office hours.
+I anticipate this not working for many of you the first time, hence this is just a practice HW-0. **Do not spin your wheels!** If you encounter issues, don't panic and come see me.
