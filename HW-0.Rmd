@@ -2,7 +2,12 @@
 title: "HW-0"
 author: "WRITE YOUR NAME HERE"
 date: "August 15, 2016"
-output: html_document
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    smooth_scroll: false
 ---
 
 Files with extension `.Rmd` are [R Markdown](http://rmarkdown.rstudio.com/) files.
@@ -13,11 +18,12 @@ We are going to practice compiling `.Rmd` files, i.e. knit them, to HTML pages.
 1. In the resulting pop-up window of an HTML page, click on "Publish" (in blue
 on the top-right) -> RPubs -> Publish. Give it a title and a "slug" i.e. URL
 completion. Your analysis is now online! You can update what's online by
-repeating the steps 2 and 3.
+repeating steps 2 and 3.
 1. Copy the URL of the resulting RPubs page.
 1. Replace the https://www.nhl.com/ URL below with the URL of your RPubs page:  
 [My RPubs Document](https://www.nhl.com/)
-1. Indicate how much time you spent on this assignment up to now: 
+1. Indicate how much time you spent on this assignment up to now, 
+including forking the `HW-0` repo and setting up the RStudio project: 
 1. Re-knit this document and update what's on RPubs.
 1. Then submit this file only, `HW-0.Rmd`, following the steps on the repo page for `HW-0`.
 
@@ -38,3 +44,32 @@ summary(mtcars$wt)
 ```
 
 blah blah
+
+
+## More Stuff
+
+Quick lists:
+
+* Hello world
+* My name is Albert
+    + Make sublists
+    + Yeah
+    
+
+Quick numbered lists:
+
+1. Blah
+1. Blah
+1. Blah
+
+Tables:
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+
+## LaTeX
+
+$\exp\left(\frac{1}{2}\right)$

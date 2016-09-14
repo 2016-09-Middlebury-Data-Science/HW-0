@@ -50,7 +50,7 @@ Things to Keep in Mind
 
 2.  RStudio projects are self-contained meaning you can only push file changes to GitHub if you are currently working in that project. If you want to switch between projects, in the top right of RStudio you can toggle between projects by clicking on the arrow.
 3.  This process is the same for anything you find on GitHub! For example, if you are following election news on Nate Silver's data journalism site [538](http://fivethirtyeight.com/), you can fork a copy of the data corresponding to many of their articles here <https://github.com/fivethirtyeight/data>
-4.  This is not a class on GitHub and we'll only be using a small sliver of its functionality. If you want to learn more however, Jenny Bryan at UBC has written an excellent online book [Happy Git and GitHub for the useR](http://happygitwithr.com/).
+4.  This is not a class on GitHub and we'll only be using a small sliver of its functionality. **Please follow these steps exactly** as debugging GitHub problems can be [difficult](http://ohshitgit.com/). If you want to learn more however, Jenny Bryan at UBC has written an excellent online book [Happy Git and GitHub for the useR](http://happygitwithr.com/).
 
 Help! This Isn't Working!
 -------------------------

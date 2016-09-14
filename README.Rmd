@@ -99,10 +99,11 @@ are following election news on Nate Silver's data journalism site
 [538](http://fivethirtyeight.com/), you can fork a copy of the data
 corresponding to many of their articles here
 <https://github.com/fivethirtyeight/data>
-1. This is not a class on GitHub and we'll only be using a small sliver of its
-functionality. If you want to learn more however, Jenny Bryan at UBC has written
-an excellent online book [Happy Git and GitHub for the
-useR](http://happygitwithr.com/).
+1. This is not a class on GitHub and we'll only be using a small sliver of its 
+functionality. **Please follow these steps exactly** as debugging GitHub
+problems can be [difficult](http://ohshitgit.com/). If you want to learn more
+however, Jenny Bryan at UBC has written an excellent online book [Happy Git and
+GitHub for the useR](http://happygitwithr.com/).
 
 
 
