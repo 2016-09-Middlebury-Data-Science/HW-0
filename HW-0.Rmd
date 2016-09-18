@@ -23,7 +23,7 @@ repeating steps 2 and 3.
 1. Replace the https://www.nhl.com/ URL below with the URL of your RPubs page:  
 [My RPubs Document](http://rpubs.com/pinkfan9999/hw0)
 1. Indicate how much time you spent on this assignment up to now, 
-including forking the `HW-0` repo and setting up the RStudio project: 
+including forking the `HW-0` repo and setting up the RStudio project: 10 minutes
 1. Re-knit this document and update what's on RPubs.
 1. Then submit this file only, `HW-0.Rmd`, following the steps on the repo page for `HW-0`.
 
