@@ -1,7 +1,7 @@
 ---
 title: "HW-0"
-author: "WRITE YOUR NAME HERE"
-date: "August 15, 2016"
+author: "Kyra Gray"
+date: "August 21, 2016"
 output:
   html_document:
     toc: true
