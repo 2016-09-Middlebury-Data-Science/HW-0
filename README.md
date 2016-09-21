@@ -32,7 +32,7 @@ This process will be the same for all homeworks and the final project.
     -   Click the checkbox next to `HW-0.Rmd` to select it for syncing with GitHub and click *Commit*. "Commit" is GitHub lingo for "prepare to sync", i.e. check if GitHub can accept these changes.
     -   Add a brief commit message describing your changes and click *Commit*. Typically this will be an informative message to yourself like "Updated file X" or "Reorganized documents folder" etc.
     -   Push your changes to GitHub:
-        -   **Do this only the first time you push anything to GitHub**: Go to *Tools* -&gt; *Shell...* -&gt; type `git push` and follow instructions. You only need to do this once.
+        -   ~~**Do this only the first time you push anything to GitHub**: Go to *Tools* -&gt; *Shell...* -&gt; type `git push` and follow instructions. You only need to do this once.~~
         -   **For all subsequent pushes**: Click the *Push* button.
 
 5.  **Submit your homework via pull request**: A "pull request" is a "request to merge the changes in your forked repo with the master repo", in this case the original master copy of `HW-0`. It will notify the master repo owner, who can then inspect the proposed changes. This make collaboration on very large projects easy. We will, however, stop short of actually merging any changes into the master repo, and I will only look at your work.

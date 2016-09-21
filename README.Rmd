@@ -65,8 +65,8 @@ of your repo with your local copy of the repo".
     Typically this will be an informative message to yourself like "Updated file
     X" or "Reorganized documents folder" etc.
     + Push your changes to GitHub:
-        + **Do this only the first time you push anything to GitHub**: Go to *Tools* ->
-        *Shell...* -> type `git push` and follow instructions.  You only need to do this once.
+        + ~~**Do this only the first time you push anything to GitHub**: Go to *Tools* ->
+        *Shell...* -> type `git push` and follow instructions.  You only need to do this once.~~
         + **For all subsequent pushes**: Click the *Push* button.
 1. **Submit your homework via pull request**: A "pull request" is a "request to 
 merge the changes in your forked repo with the master repo", in this case the 
