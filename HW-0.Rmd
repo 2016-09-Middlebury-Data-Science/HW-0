@@ -1,6 +1,6 @@
 ---
 title: "HW-0"
-author: "WRITE YOUR NAME HERE"
+author: Nina Sonneborn
 date: "August 15, 2016"
 output:
   html_document:
@@ -21,7 +21,7 @@ completion. Your analysis is now online! You can update what's online by
 repeating steps 2 and 3.
 1. Copy the URL of the resulting RPubs page.
 1. Replace the https://www.nhl.com/ URL below with the URL of your RPubs page:  
-[My RPubs Document](https://www.nhl.com/)
+[My RPubs Document](http://rpubs.com/nsonneborn/hw0)
 1. Indicate how much time you spent on this assignment up to now, 
 including forking the `HW-0` repo and setting up the RStudio project: 
 1. Re-knit this document and update what's on RPubs.
@@ -73,3 +73,4 @@ Content Cell  | Content Cell
 ## LaTeX
 
 $\exp\left(\frac{1}{2}\right)$
+
